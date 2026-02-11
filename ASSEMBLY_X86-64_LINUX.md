@@ -1156,7 +1156,15 @@ _start:
 4. **Drivers**: Desenvolva drivers de dispositivo
 5. **Compiladores**: Crie seu próprio compilador
 
+---
 
+## 🎯 Conclusão
+
+Assembly é uma linguagem poderosa que oferece controle total sobre o hardware. Comece com programas simples, entenda cada instrução, pratique muito e gradualmente avance para tópicos complexos. A chave é a prática constante e a experimentação.
+
+Lembre-se: **"Não existe código mágico, apenas código que você ainda não entende."** - Desconhecido
+
+Boa jornada no mundo da programação de baixo nível! 🚀
 
 ---
 *Documentação criada para aprendizado de Assembly x86-64 no Linux. Última atualização: Fevereiro 2024.*
