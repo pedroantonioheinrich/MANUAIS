@@ -1,4 +1,5 @@
 ---
+
 # 📘 Manual Completo de BASH (Linux)
 **Do Básico à Automação Avançada**
 
