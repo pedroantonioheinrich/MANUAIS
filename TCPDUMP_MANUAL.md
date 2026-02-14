@@ -1,10 +1,3 @@
----
-
-# 📘 Manual Completo de TCPDUMP (Linux)
-**Da Captura Básica à Análise Forense de Pacotes**
-
----
-
 ## 1. 🚀 Introdução: O que é TCPDUMP?
 
 **TCPDUMP** é uma ferramenta de linha de comando poderosa para análise de tráfego de rede em tempo real . Ela permite capturar e inspecionar pacotes que trafegam pela interface de rede, sendo indispensável para administradores de rede, profissionais de segurança e qualquer pessoa que precise entender o comportamento da rede .
