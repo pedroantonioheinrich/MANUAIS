@@ -1,7 +1,3 @@
-Este é o manual mais completo e explicativo que você precisa para entender o ITIL 4. Vamos construir esse conhecimento passo a passo, começando do absoluto zero e evoluindo até os conceitos mais avançados, sempre com uma linguagem simples e fácil de entender.
-
----
-
 # 📘 MANUAL COMPLETO DE ITIL 4: O Guia Definitivo para Iniciantes e Profissionais
 
 ## Índice
