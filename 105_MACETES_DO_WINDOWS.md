@@ -1,16 +1,6 @@
----
+
 # 📚 Manual Completo com 100 Macetes do Windows
 ## Para Arquivo .MD (Markdown)
-
-```markdown
-# 🪟 WINDOWS MACETES - O GUIA DEFINITIVO
-### 100 Truques, Atalhos e Gambiarras para Domar o Windows
-
-**Autor:** Assistente AI  
-**Versão:** 2.0  
-**Formato:** Markdown (.md)
-
----
 
 ## 📑 ÍNDICE RÁPIDO
 1. [Atalhos de Teclado Essenciais](#1-atalhos-de-teclado-essenciais)
