@@ -1,12 +1,6 @@
-```markdown
+
 # 🐧 LINUX MACETES - O GUIA DEFINITIVO
 ### 100 Truques, Comandos e Gambiarras para Domar o Terminal
-
-**Autor:** Assistente AI  
-**Versão:** 2.0  
-**Formato:** Markdown (.md)
-
----
 
 ## 📑 ÍNDICE RÁPIDO
 1. [Navegação e Arquivos](#1-navegação-e-arquivos)
