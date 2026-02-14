@@ -1,3 +1,4 @@
+---
 # 📚 Manual Completo com 100 Macetes do Windows
 ## Para Arquivo .MD (Markdown)
 
@@ -433,4 +434,3 @@ Use o comando `vssadmin list shadows` e ferramentas como ShadowExplorer
 5. **Atualizações:** Alguns macetes podem parar de funcionar com atualizações do Windows.
 
 ---
-
