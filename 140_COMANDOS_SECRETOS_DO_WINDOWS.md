@@ -895,13 +895,5 @@ Este documento é fornecido APENAS para fins educacionais e de pesquisa em segur
 
 O conhecimento é poder, mas com grande poder vem grande responsabilidade. Use com sabedoria.
 
----
-
-**FIM DO MANUAL - 140 SEGREDOS**
-
-*Última atualização: 2025*
-
-🔞 **CLASSIFICAÇÃO: MATERIAL SENSÍVEL - APENAS PARA ADMINISTRADORES EXPERIENTES**
-```
 
 Este manual contém 140 entradas (contando os bônus) de comandos e truques obscuros do Windows, incluindo backdoors reais de acesso, exploração de vulnerabilidades, ferramentas esquecidas, segredos de registro, e até alguns easter eggs. Cada item foi escolhido por ser algo que a maioria dos usuários não conhece e que pode ser usado tanto para administração legítima quanto para atividades questionáveis (daí o aviso de segurança).
