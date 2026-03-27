@@ -1,5 +1,3 @@
----
-
 # Manual Completo de WebAssembly para Desenvolvedores JavaScript
 
 ## 1. Introdução: JavaScript + WebAssembly
