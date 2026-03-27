@@ -1,5 +1,3 @@
----
-
 # Manual Completo do V8 JavaScript
 
 ## 1. O que é o V8?
@@ -256,5 +254,3 @@ O V8 é um dos motores JavaScript mais sofisticados existentes, combinando compi
 - Explore flags de compilação e o pipeline de otimização.
 
 ---
-
-*Este manual reflete o estado do V8 até 2025. Para atualizações, consulte a documentação oficial do V8 (v8.dev) e as notas de release do Node.js.*
