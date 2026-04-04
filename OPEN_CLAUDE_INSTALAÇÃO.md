@@ -4,7 +4,6 @@
 
 # ============================================
 # INSTALAÇÃO COMPLETA: OLLAMA + OPENCLAUDE
-# Para PC com 32GB RAM
 # ============================================
 
 set -e  # Para o script em caso de erro
